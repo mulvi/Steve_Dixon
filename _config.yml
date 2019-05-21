@@ -94,6 +94,13 @@ defaults:
       author_profile: true
       breadcrumbs: true
       search: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
