@@ -7,3 +7,31 @@ main:
     url: /clients/
   - title: "About"
     url: /about/
+
+docs:
+  - title: Work
+    children:
+      - title: "Aerosmith - Deuces Are Wild Residency"
+        url: /docs/aerosmith/
+      - title: "BlackPink “In Your Area”"
+        url: /docs/blackpink/
+      - title: "BTS Love Yourself"
+        url: /docs/bts/
+      - title: "MayDay Tour"
+        url: /docs/mayday/
+      - title: "G-Dragon Tour"
+        url: /docs/g-dragon/
+      - title: "G.E.M. Tour 2017"
+        url: /docs/g.e.m./
+      - title: "BIG BANG 2015"
+        url: /docs/bigbang/
+      - title: "G.E.M. Tour 2015"
+        url: /docs/g.e.m.2/
+
+  - title: Information
+    children:
+      - title: "Clients"
+        url: /docs/clients/
+      - title: "About"
+        url: /docs/about/
+    
