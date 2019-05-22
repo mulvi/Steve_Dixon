@@ -1,6 +1,6 @@
 ## Work:
 - Aerosmith - Deuces Are Wild Residency - Show Producer
-![Image](src)
+![Image](..assets/images/aerosmith1.jpg)
 - BlackPink “In Your Area” 2019 - Worldwide Touring Consultant
 
 - BTS Love Yourself Tour - Touring consultant 2018-2019
